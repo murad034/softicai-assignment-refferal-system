@@ -12,7 +12,7 @@ The documentation of running this project <br /><br />
     
 ==> Clear cache (php artisan optimize:clear) <br />
 ==> key generate (php artisan key:generate) <br />
-==> php artisan migrate <br /><br />
+==> php artisan migrate <br />
 ==> php artisan db:seed <br /><br />
 
 
